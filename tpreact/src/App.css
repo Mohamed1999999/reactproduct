@@ -1,0 +1,57 @@
+
+
+
+
+.description{
+  color:rgb(76, 74, 74);
+  display: flex;
+  font-size:x-large;
+}
+.name{
+  color:rgb(77, 76, 76);
+  font-size:x-large;
+}
+
+/* body {margin-top: 10%;
+
+  width: 100%;
+} */
+.carde{
+  width: 30%;
+  height: 10%;
+ 
+  
+
+  border-radius: 0%;
+}
+.commander{
+  margin-bottom: 4%;
+  text-align: center;
+  justify-self: center;
+  align-self: center;
+  margin: 10%;
+  background-color:rgb(238, 139, 40);
+  font-family:cursive;
+  font-style: italic;
+  width: 30%px;
+ 
+
+}
+.container{
+  background-color: #ffffff;
+  background-image: url("");
+ position:absolute;
+  
+}
+.salutation{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+  width: 50%;
+  height: 5rem;
+}
+.codeur{
+  width: 20%;
+
+}
